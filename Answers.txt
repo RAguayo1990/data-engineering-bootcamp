@@ -1,0 +1,11 @@
+Q: How many commercial chains are monitored, and therefore, included in this database?
+A: 706
+Q: What are the top 10 monitored products by State?
+A:
+Q: Which is the commercial chain with the highest number of monitored products?
+A: WAL-MART
+Q: Use the data to find an interesting fact.
+A: WAL-MART either really sells a lot or is one of the few chains that actually register what they sell
+Q: What are the lessons learned from this exercise?
+A: Though there are several methods within the DataFrame class that make things easier, the simplest solution can indeed give a correct answer, but they take a long, long time to compute
+Can you identify other ways to approach this problem? Explain.
